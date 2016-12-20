@@ -3,6 +3,8 @@ Terrain-Generator is a graphics program using C/C++, OpenGL, and freeGlut to pro
 Cirle Algorithm: http://www.lighthouse3d.com/opengl/terrain/index.php?circles
 Fault Algorithm: http://www.lighthouse3d.com/opengl/terrain/index.php?fault
 
+For instruction on how to install openGl or freeGlut: go to 3D-Modeller and at the bottom you will be able to downlaod pdf instructions. https://github.com/carlossantana3279/3D-Modeller
+
 
 Pictures: 
 
