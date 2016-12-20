@@ -10,3 +10,5 @@ Pictures:
 ![Alt text](/terrain2.png?raw=true "Terrain 2") 
 
 ![Alt text](/terrain3.png?raw=true "Terrain 3") 
+
+![Alt text](/terrain4.png?raw=true "Terrain 4") 
