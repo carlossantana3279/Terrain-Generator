@@ -1,6 +1,4 @@
 # Terrain-Generator
-This is a terrain Generator
-
 Terrain-Generator is a graphics program using C/C++, OpenGL, and freeGlut to produce and  display  an  interactive  terrain mesh. Flat shading and Gouraud(SMOOTH) shading is achieved by calculating face normals and vertx normals. The User can toggle between many different types of terrains such as a wire-frame terrain, hypsometric map, and solid polygons. Lighting is also togglable. Also, different algorithms( such as the fault algorithm) can be used to generate the maps. 
 Cirle Algorithm: http://www.lighthouse3d.com/opengl/terrain/index.php?circles
 Fault Algorithm: http://www.lighthouse3d.com/opengl/terrain/index.php?fault
